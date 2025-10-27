@@ -1,10 +1,3 @@
-/* ==================================================================
-	Programmer: Yicheng Tu (ytu@cse.usf.edu)
-	The basic SDH algorithm implementation for 3D data
-	To compile: nvcc SDH.c -o SDH in the GAIVI machines
-   ==================================================================
-/* The initial C program was provided by Dr. Tu, however the accelerated version of this program was developed by Krish Shah using CUDA kernels as part of a class project*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
