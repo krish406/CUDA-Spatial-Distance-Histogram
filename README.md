@@ -1,4 +1,3 @@
-```markdown
 # CUDA Spatial Distance Histogram
 
 This repository contains a CUDA implementation of a Spatial Distance Histogram (SDH) computation together with a CPU baseline. The implementation is in `proj2-krishs.cu` and computes a histogram of pairwise Euclidean distances between points randomly distributed inside a 3D box.
